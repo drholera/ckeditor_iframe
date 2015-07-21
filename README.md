@@ -1,4 +1,4 @@
-CKEditor IFrame Dialog for Drupal 8
+CKEditor IFrame Dialog plugin for Drupal 8
 -----------------------------------
 
 A module that registers a plugin which provides the dialog to insert and edit inline frames (iframe elements) in content: http://ckeditor.com/addon/iframe

@@ -13,7 +13,7 @@ use Drupal\editor\Entity\Editor;
  *
  * @CKEditorPlugin(
  *   id = "iframe",
- *   label = @Translation("Insert iframe")
+ *   label = @Translation("Iframe")
  * )
  */
 class Iframe extends PluginBase implements CKEditorPluginInterface, CKEditorPluginButtonsInterface {
