@@ -6,9 +6,10 @@ A module that registers a plugin which provides the dialog to insert and edit in
 ### Installation
 
 1. Download the [Ckeditor Iframe Plugin](https://github.com/ol0lll/ckeditor_iframe) module, put it into the modules folder, then enable it.
-2. Edit selected text format where CKEditor is enabled.
-3. Adjust toolbar configuration - add Insert Iframe to the toolbar.
-4. Save the text format settings.
+2. Download and install [Ckeditor Dialog Plugin](https://github.com/ol0lll/ckeditor_dialog) and [Ckeditor FakeObjects Plugin](https://github.com/ol0lll/ckeditor_fakeobjects)
+3. Edit selected text format where CKEditor is enabled.
+4. Adjust toolbar configuration - add Insert Iframe to the toolbar.
+5. Save the text format settings.
 
 ### License
 
