@@ -1,0 +1,12 @@
+{
+  "name": "drholera/ckeditor_iframe",
+  "description": "Displays CKeditor iframe button",
+  "type": "drupal-module",
+  "authors": [
+    {
+      "name": "Volker Killesreiter",
+      "homepage": "https://github.com/ol0lll/"
+    }
+  ],
+  "license": "GPL-2.0+"
+}
